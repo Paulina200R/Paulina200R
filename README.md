@@ -1,11 +1,11 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
   <!-- Welcome -->
-<h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> It's Paulina</h1>
 
   <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Software+Programming+Student">
 </p>
 
   <!-- Profile Picture -->
@@ -13,12 +13,12 @@
 
   <!-- Description -->
 ```diff
-🛠️ +5 years of professional experience.
-+  ✔️ Responsible worker.
-#  👨‍💻 Information Technology Engineer (ITI).
--  🚀 Optimizing web pages.
-!  ✨ If you can imagine it, you can program it. 
-@@ 💻Solving problems from a self-built computer.@@
++ 🎓 Student in Software Analysis and Development, eager to learn and grow.
+- 🛠️ Completed a Software Programming Technical degree with strong fundamentals in development.
+@@ ✔️ Enthusiastic and committed to solving problems and continuous improvement.@@
+° 👨‍💻 Always looking for new opportunities to apply what I’ve learned and gain new skills.
+# 🔧 Focused on learning agile methodologies.
+! 🔥 Motivated to face new challenges and learn in a professional environment.
 ```
 
   <!-- Skills and Tools-->
@@ -33,6 +33,8 @@
           <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
           <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
           <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
+<!--           <img src="https://i.giphy.com/media/DUYVvXwjPpKBa3ZBt2/200w.webp" width="52" alt="Node.js logo" /> 
+          <img src="https://i.giphy.com/media/WTkXuYA2yGiAKlxKxf/200w.webp" width="52" alt="MySQL logo" /> -->
         </td>
     </tr>
     <tr>
